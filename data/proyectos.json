@@ -1,0 +1,242 @@
+[  
+  {    
+    "name": "Aplicación de seguimiento de gastos",
+    "description": "Una aplicación para realizar seguimiento de tus gastos diarios y generar informes detallados.",
+    "link": "http://miweb.com/seguimiento-gastos",    
+    "img": "https://picsum.photos/400/225",    
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "section": "webapp",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab05",
+      "nombre": "Ana"
+    }
+  },
+  {
+    "name": "Juego de carreras espaciales",
+    "description": "Un juego emocionante en el que debes competir en carreras a través del espacio.",
+    "link": "http://miweb.com/carreras-espaciales",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["Unity", "C#", "Photoshop"],
+    "section": "game",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab06",
+      "nombre": "Pedro"
+    }
+  },
+  {
+    "name": "Tienda en línea de ropa",
+    "description": "Una tienda en línea de ropa con catálogo completo y sistema de pago integrado.",
+    "link": "http://miweb.com/tienda-ropa",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["PHP", "Magento", "MySQL"],
+    "section": "ecommerce",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab06",
+      "nombre": "Pedro"
+    }
+  },
+  {
+    "name": "App de lectura de noticias",
+    "description": "Una aplicación para estar al día con las últimas noticias de tu ciudad y del mundo.",
+    "link": "http://miweb.com/lectura-noticias",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["Flutter", "Firebase", "Python"],
+    "section": "mobile",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab06",
+      "nombre": "Pedro"
+    }
+  },
+  {
+    "name": "Landing page para aplicación de viajes",
+    "description": "Una landing page atractiva para promocionar una aplicación de viajes con funciones únicas.",
+    "link": "http://miweb.com/landing-viajes",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "section": "landing",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab06",
+      "nombre": "Pedro"
+    }
+  },
+  {
+    "name": "Plataforma de streaming de videojuegos",
+    "description": "Una plataforma de streaming para transmitir tus juegos favoritos en vivo.",
+    "link": "http://miweb.com/streaming-videojuegos",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["React", "Node.js", "AWS"],
+    "section": "webapp",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab05",
+      "nombre": "Ana"
+    }
+  },
+  {
+    "name": "Juego de rol en línea",
+    "description": "Un juego de rol en línea con mundos abiertos y batallas emocionantes.",
+    "link": "http://miweb.com/juego-rol",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["Java", "MySQL", "Photoshop"],
+    "section": "game",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab06",
+      "nombre": "Pedro"
+    }
+  },
+  {
+    "name": "App para seguimiento de ejercicio físico",
+    "description": "Una aplicación para llevar un registro de tus rutinas de ejercicio y monitorear tu progreso.",
+    "link": "http://miweb.com/seguimiento-ejercicio",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["React Native", "Firebase", "Java"],
+    "section": "mobile",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab08",
+      "nombre": "Carlos"
+    }
+  },
+  {
+    "name": "Página web de servicios de diseño gráfico",
+    "description": "Una página web para mostrar los servicios de una empresa de diseño gráfico y sus trabajos realizados.",
+    "link": "http://miweb.com/diseno-grafico",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["WordPress", "HTML", "CSS"],
+    "section": "webapp",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab05",
+      "nombre": "Ana"
+    }
+  },
+  {
+    "name": "Juego de plataformas en 2D",
+    "description": "Un juego de plataformas clásico en 2D con gráficos y música nostálgica.",
+    "link": "http://miweb.com/juego-plataformas",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["GameMaker Studio", "Photoshop", "FL Studio"],
+    "section": "game",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab06",
+      "nombre": "Pedro"
+    }
+  },
+  {
+    "name": "Tienda en línea de alimentos orgánicos",
+    "description": "Una tienda en línea de alimentos orgánicos con información detallada sobre los productos y sus beneficios.",
+    "link": "http://miweb.com/tienda-alimentos-organicos",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["Shopify", "Liquid", "Photoshop"],
+    "section": "ecommerce",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab08",
+      "nombre": "Carlos"
+    }
+  },
+  {
+    "name": "App de aprendizaje de idiomas",
+    "description": "Una aplicación para aprender nuevos idiomas con lecciones interactivas y juegos educativos.",
+    "link": "http://miweb.com/aprendizaje-idiomas",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["React Native", "MongoDB", "JavaScript"],
+    "section": "mobile",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab05",
+      "nombre": "Ana"
+    }
+  },
+  {
+    "name": "Landing page para empresa de arquitectura",
+    "description": "Una landing page para mostrar los servicios de una empresa de arquitectura y sus proyectos realizados.",
+    "link": "http://miweb.com/landing-arquitectura",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "section": "landing",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab05",
+      "nombre": "Ana"
+    }
+  },
+  {
+    "name": "Plataforma de cursos en línea",
+    "description": "Una plataforma de cursos en línea para ofrecer clases en vivo o grabadas de distintos temas.",
+    "link": "http://miweb.com/cursos-en-linea",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["Node.js", "React", "AWS"],
+    "section": "webapp",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab05",
+      "nombre": "Ana"
+    }
+  },
+  {
+    "name": "Aplicación de mensajería instantánea",
+    "description": "Una aplicación de mensajería instantánea para comunicarte con tus amigos y familiares.",
+    "link": "http://miweb.com/mensajeria-instantanea",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["Swift", "Firebase", "Java"],
+    "section": "mobile",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab05",
+      "nombre": "Ana"
+    }
+  },
+  {
+    "name": "Sitio web de noticias deportivas",
+    "description": "Un sitio web para estar al tanto de las últimas noticias en el mundo del deporte.",
+    "link": "http://miweb.com/noticias-deportes",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "section": "webapp",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab07",
+      "nombre": "Julio"
+    }
+  },
+  {
+    "name": "Videojuego de rol en línea",
+    "description": "Un videojuego de rol en línea con un mundo abierto y muchas aventuras por descubrir.",
+    "link": "http://miweb.com/videojuego-rol",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["Unity", "C#", "Photoshop"],
+    "section": "game",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab05",
+      "nombre": "Ana"
+    }
+  },
+  {
+    "name": "Tienda en línea de ropa vintage",
+    "description": "Una tienda en línea de ropa vintage con una gran variedad de estilos y tallas.",
+    "link": "http://miweb.com/tienda-ropa-vintage",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["Shopify", "Liquid", "Photoshop"],
+    "section": "ecommerce",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab07",
+      "nombre": "Julio"
+    }
+  },
+  {
+    "name": "App de seguimiento de tareas y proyectos",
+    "description": "Una aplicación para organizar tus tareas y proyectos y llevar un seguimiento de su progreso.",
+    "link": "http://miweb.com/seguimiento-tareas",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["React Native", "Firebase", "Java"],
+    "section": "mobile",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab05",
+      "nombre": "Ana"
+    }
+  },
+  {
+    "name": "Landing page para servicios de consultoría",
+    "description": "Una landing page para mostrar los servicios de una empresa de consultoría y sus casos de éxito.",
+    "link": "http://miweb.com/landing-consultoria",
+    "img": "https://picsum.photos/400/225",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "section": "landing",
+    "cliente": {
+      "id": "64614fa74d6a89bc731eab07",
+      "nombre": "Julio"
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "64615a454d6a89bc731eab21"
+  },
+  "nombre": "Ana",
+  "imagen": "https://picsum.photos/400/225",
+  "descripcion": "Cliente fiel desde hace más de 5 años",
+  "proyectos": [
+    {
+      "id": "645dd92e0a7f0101a2e96f06",
+      "name": "Aplicación de seguimiento de gastos"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f0b",
+      "name": "Plataforma de streaming de videojuegos"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f0d",
+      "name": "App para seguimiento de ejercicio físico"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f0e",
+      "name": "Página web de servicios de diseño gráfico"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f10",
+      "name": "Tienda en línea de alimentos orgánicos"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f11",
+      "name": "App de aprendizaje de idiomas"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f12",
+      "name": "Landing page para empresa de arquitectura"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f13",
+      "name": "Plataforma de cursos en línea"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f14",
+      "name": "Aplicación de mensajería instantánea"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f16",
+      "name": "Videojuego de rol en línea"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f18",
+      "name": "App de seguimiento de tareas y proyectos"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64615a454d6a89bc731eab22"
+  },
+  "nombre": "Pedro",
+  "imagen": "https://picsum.photos/400/225",
+  "descripcion": "Emprendedor que ha confiado en nosotros desde el principio",
+  "proyectos": [
+    {
+      "id": "64615a734d6a89bc731eab2e",
+      "name": "Juego de carreras especiales"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f08",
+      "name": "Tienda en línea de ropa"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f09",
+      "name": "App de lectura de noticias"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f0a",
+      "name": "Landing page para aplicación de viajes"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f0c",
+      "name": "Juego de rol en línea"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f0f",
+      "name": "Juego de plataformas en 2D"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64615a454d6a89bc731eab23"
+  },
+  "nombre": "Julio",
+  "imagen": "https://picsum.photos/400/225",
+  "descripcion": "Cliente que siempre nos sorprende con sus pedidos",
+  "proyectos": [
+    {
+      "id": "645dd92e0a7f0101a2e96f19",
+      "name": "Landing page para servicios de consultoría"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f17",
+      "name": "Tienda en línea de ropa vintage"
+    },
+    {
+      "id": "645dd92e0a7f0101a2e96f15",
+      "name": "Sitio web de noticias deportivas"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "64615a454d6a89bc731eab24"
+  },
+  "nombre": "Carlos",
+  "imagen": "https://picsum.photos/400/225",
+  "descripcion": "Cliente antiguo con historial intachable"
+},{
+  "_id": {
+    "$oid": "64615a454d6a89bc731eab25"
+  },
+  "nombre": "David",
+  "imagen": "https://picsum.photos/400/225",
+  "descripcion": "Cliente satisfecho que siempre nos recomienda"
+},{
+  "_id": {
+    "$oid": "64615a454d6a89bc731eab26"
+  },
+  "nombre": "Elena",
+  "imagen": "https://picsum.photos/400/225",
+  "descripcion": "Cliente premium que siempre busca la mejor calidad"
+},{
+  "_id": {
+    "$oid": "64615a454d6a89bc731eab27"
+  },
+  "nombre": "Isabel",
+  "imagen": "https://picsum.photos/400/225",
+  "descripcion": "Cliente internacional con múltiples sucursales"
+},{
+  "_id": {
+    "$oid": "646183c8ce145e2324d34849"
+  },
+  "nombre": "test",
+  "imagen": "https://picsum.photos/400/225",
+  "descripcion": "Cliente internacional con múltiples test"
+}]
